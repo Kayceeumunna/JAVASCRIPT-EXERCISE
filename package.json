@@ -1,5 +1,5 @@
 {
-  "name": "JAVASCRIPT-EXERCISE",
+  "name": "javascript-exercise",
   "scripts": {
     "test": "node app.js" 
   }
