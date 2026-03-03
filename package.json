@@ -1,0 +1,6 @@
+{
+  "name": "JAVASCRIPT-EXERCISE",
+  "scripts": {
+    "test": "node app.js" 
+  }
+}
