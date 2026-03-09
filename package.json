@@ -1,6 +1,6 @@
 {
   "name": "javascript-exercise",
   "scripts": {
-    "test": "node app.js" 
+    "test": "node \"Module 3A Task 5.js\" && node \"Module 3A Task 6.js\""
   }
 }
