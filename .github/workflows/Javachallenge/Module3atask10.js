@@ -1,0 +1,7 @@
+function calculateAreaOfRectangle(length,width) {
+const area = length * width
+const product= length * width
+return [area,product];
+
+}
+console.log(calculateAreaOfRectangle (7, 8));
