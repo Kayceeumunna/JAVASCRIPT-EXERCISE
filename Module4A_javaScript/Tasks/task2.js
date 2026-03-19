@@ -1,0 +1,1 @@
+alert('Funfact- javaScript is difficult')
